@@ -6,7 +6,10 @@
 - 🇷🇺 [Русский](README_RU.md)
 
 ---
-📄 **Đọc báo cáo đầy đủ (PDF):** [Tải xuống tại đây](./Bao-cao-PDL-Viet-Nam-2026.pdf)
+## 📄 Báo cáo
+- 🇻🇳 [Tiếng Việt](reports/Bao-cao-PDL-Viet-Nam-2026.pdf)
+- 🇬🇧 [English](reports/Vietnam-PDL-Report-2026.pdf)
+- 🇷🇺 [Русский](reports/Otchet-PDL-Vietnam-2026.pdf)
 
 ## Báo cáo độc lập về thị trường cho vay tiêu dùng trực tuyến (PDL) tại Việt Nam giai đoạn 2015–2026
 Kho lưu trữ này chứa báo cáo nghiên cứu độc lập dựa trên các nguồn thông tin công khai về sự phát triển của thị trường cho vay trực tuyến tại Việt Nam.
