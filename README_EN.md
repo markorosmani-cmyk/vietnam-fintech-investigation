@@ -5,6 +5,11 @@
 - 🇬🇧 English
 - 🇷🇺 [Русский](README_RU.md)
 
+## 📄 Reports
+- 🇻🇳 [Vietnamese](reports/Bao-cao-PDL-Viet-Nam-2026.pdf)
+- 🇬🇧 [English](reports/Vietnam-PDL-Report-2026.pdf)
+- 🇷🇺 [Russian](reports/Otchet-PDL-Vietnam-2026.pdf)
+
 ## Independent Investigation into Vietnam's Online Payday Lending Industry (2015–2026)
 This repository contains an independent research project dedicated to the development of Vietnam's online payday lending (PDL) industry.
 The investigation is based on publicly available information, corporate records, regulatory documents, media reports and open sources.
