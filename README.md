@@ -1,4 +1,11 @@
 # Điều tra ngành cho vay trực tuyến tại Việt Nam
+
+🌐 **Ngôn ngữ / Languages**
+- 🇻🇳 Tiếng Việt
+- 🇬🇧 [English](README_EN.md)
+- 🇷🇺 [Русский](README_RU.md)
+
+---
 📄 **Đọc báo cáo đầy đủ (PDF):** [Tải xuống tại đây](./Bao-cao-PDL-Viet-Nam-2026.pdf)
 
 ## Báo cáo độc lập về thị trường cho vay tiêu dùng trực tuyến (PDL) tại Việt Nam giai đoạn 2015–2026
