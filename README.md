@@ -4,7 +4,6 @@
 - 🇻🇳 Tiếng Việt
 - 🇬🇧 [English](README_EN.md)
 - 🇷🇺 [Русский](README_RU.md)
-
 ---
 ## 📄 Báo cáo
 - 🇻🇳 [Tiếng Việt](reports/Bao-cao-PDL-Viet-Nam-2026.pdf)
