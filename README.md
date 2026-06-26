@@ -1,4 +1,5 @@
 # Điều tra ngành cho vay trực tuyến tại Việt Nam
+📄 **Đọc báo cáo đầy đủ (PDF):** [Tải xuống tại đây](./Điều%20tra%20hoạt%20động%20của%20các%20công%20ty%20tài%20chính....pdf)
 
 ## Báo cáo độc lập về thị trường cho vay tiêu dùng trực tuyến (PDL) tại Việt Nam giai đoạn 2015–2026
 Kho lưu trữ này chứa báo cáo nghiên cứu độc lập dựa trên các nguồn thông tin công khai về sự phát triển của thị trường cho vay trực tuyến tại Việt Nam.
